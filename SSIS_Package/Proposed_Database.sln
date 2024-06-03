@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CaseStudy2023_TeamIppiliKedasKoneru", "CaseStudy2023_TeamIppiliKedasKoneru.dtproj", "{1F106B27-0A4D-4D02-B3FE-F6B1CE702D35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F106B27-0A4D-4D02-B3FE-F6B1CE702D35}.Development|Default.ActiveCfg = Development
+		{1F106B27-0A4D-4D02-B3FE-F6B1CE702D35}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034E578C-5F37-4ADE-96B8-B0BF7284F746}
+	EndGlobalSection
+EndGlobal
