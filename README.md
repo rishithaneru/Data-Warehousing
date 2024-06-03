@@ -22,7 +22,7 @@ This project showcases my ability to design and implement a scalable data wareho
 
 # Approach and Solution
 
- 5. Data Diagram
+Data Diagram
   
 ![alt text](https://github.com/rishithaneru/Data-Warehousing/blob/main/Data_Diagram.png)
 
