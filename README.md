@@ -24,7 +24,7 @@ This project showcases my ability to design and implement a scalable data wareho
 
  5. Data Diagram
   
-
+![alt text](https://github.com/rishithaneru/Data-Warehousing/blob/main/Data_Diagram.png)
 
   
   1. Data Inspection and Cleaning
