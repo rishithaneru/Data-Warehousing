@@ -3,6 +3,10 @@ This project showcases my ability to design and implement a scalable data wareho
 # Project Overview
   In this project, I designed and implemented a comprehensive data warehouse solution for Health Options Inc., a company with multiple locations across the United States. The goal was   to build a robust data warehouse to support executive decision-making and business intelligence needs. The project involved data cleaning, transformation, and loading (ETL)          processes, as well as the creation of fact and dimension tables to facilitate insightful analysis and reporting.
 
+# Key SQL Files
+  1) DataWarehouse.sql: Contains statements to drop and create tables in the data warehouse, along with the code for creating the stored procedure of the DateMaster table.
+  2) ExecutiveQuestions.sql: Contains statements to drop and create views for answering executive questions.
+
 # Case Requirements
   The executive management team at Health Options Inc. needed to address several critical business questions:
 
